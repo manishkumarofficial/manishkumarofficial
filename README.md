@@ -68,7 +68,7 @@ I'm focused on building a global reputation as a developer and innovator. I want
 - 📧 Email: manishkumaroicial701@gmail.com  
 - 📱 Phone: 8667012262  
 - 🌍 Location: Chennasamudram Toll Plaza, Walajapet, Tamil Nadu  
-- 🔗 [GitHub](https://github.com/wildrebel) | [LinkedIn](https://www.linkedin.com/in/wildrebel) | [LeetCode](https://leetcode.com/wildrebel) | [CodeChef](https://www.codechef.com/users/wildrebel)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/wildrebel](https://www.linkedin.com/in/manishkumar-m-709128279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [LeetCode]([https://leetcode.com/wildrebel](https://leetcode.com/u/manishkumarofficial701/)) | [CodeChef](https://www.codechef.com/users/wildrebel)
 
 ---
 
